@@ -18,6 +18,7 @@ $texto = "El diagnóstico de una época sin valores";?>
 <div id="auxTop"></div>
 <div id="lineas"></div> 
 
+
 <div id="contSlider">
   <div id="slider">
     <?php include('files/slider.php'); ?>

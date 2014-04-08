@@ -201,13 +201,31 @@ iframe{
       height: 164px;
       margin-bottom: 3px;
       margin-right: 0;
-      
     }
+
+    img.opcionImgSmall{
+      width: 100px;
+      height: 84px;
+      margin: 0 0 3px 0;
+    }
+    
+    img.opcionImgVertical{
+      width: 169px;
+      height: 242px;
+      margin: 0 0 3px 0;
+    }
+  }//destacado
+
+  img.imgVertical{
+    width: 284px;
+    height: auto;
   }
 
-  .imgBig{
+
+  img.imgBig{
     width: 100%;
-    height: 706px;    
+    height: 100%;   
+    margin-bottom: 5px; 
   }
 
   .fecha {
@@ -225,7 +243,7 @@ iframe{
     margin-right: 10px;
   } 
 
-  .imgLeft{
+  .imgLeft{http://localhost/ELCOMERCIO/2014/planetaIdeas/Abril06/img/exploracion/slider/1.jpg
     float: left;
   }
 
